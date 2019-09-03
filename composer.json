@@ -1,0 +1,13 @@
+{
+    "name": "codexivesolutions/messenger",
+    "description": "This will send message To User and save message query in database",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "codexivesolutions\\messenger\\": "src/"
+        }
+    }
+}
